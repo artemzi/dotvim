@@ -1,6 +1,19 @@
+" Pathogen                                
+call pathogen#runtime_append_all_bundles()
+call pathogen#helptags() 
+
 syntax on
+
+if has("autocmd") 
+    filetype plugin indent on
+endif        
+
 filetype on
 filetype plugin indent on
+
+" Pathogen
+call pathogen#runtime_append_all_bundles()
+call pathogen#helptags()
 
 set nocompatible
 set number
