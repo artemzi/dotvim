@@ -38,7 +38,7 @@ set smartcase
 
 " Color scheme
 set t_Co=256
-let g:solarized_termcolors=256
+let g:solarized_termcolors=16
 set background=dark
 colorscheme solarized
 
