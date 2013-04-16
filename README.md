@@ -32,7 +32,7 @@ git commit -m "Install Fugitive.vim bundle as a submodule."
 
 ## If you want use solirized color in gnome terminal
 
-copy&paste it to you term.
+(from Tim Martin): copy & paste it to you term.
 
 ```bash
 gconftool-2 --set "/apps/gnome-terminal/profiles/Default/use_theme_background" --type bool false
