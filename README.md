@@ -1,5 +1,5 @@
 Based on
-http://vimcasts.org/episodes/synchronizing-plugins-with-git-submodules-and-pathogen/
+https://github.com/dudarev/dotvim.git
 
 ```bash
 git clone http://github.com/dudarev/dotvim.git ~/.vim
