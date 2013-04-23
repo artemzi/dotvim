@@ -2,7 +2,7 @@ Based on
 https://github.com/dudarev/dotvim.git
 
 ```bash
-git clone http://github.com/dudarev/dotvim.git ~/.vim
+git clone git://github.com/unSaint/dotvim.git ~/.vim
 ln -s ~/.vim/vimrc ~/.vimrc
 ln -s ~/.vim/gvimrc ~/.gvimrc
 git submodule init
